@@ -7,3 +7,5 @@ nvme0n1       259:0    0    20G  0 disk
 └─nvme0n1p3   259:3    0  18.4G  0 part 
   ├─rhel-root 253:0    0  16.4G  0 lvm  /
   └─rhel-swap 253:1    0     2G  0 lvm  [SWAP]
+we are working nest day
+second day source code writting 
