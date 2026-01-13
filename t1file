@@ -1,0 +1,9 @@
+NAME          MAJ:MIN RM   SIZE RO TYPE MOUNTPOINTS
+sr0            11:0    1 109.8M  0 rom  /run/media/root/CDROM
+sr1            11:1    1   8.9G  0 rom  /run/media/root/RHEL-9-2-0-BaseOS-x86_64
+nvme0n1       259:0    0    20G  0 disk 
+├─nvme0n1p1   259:1    0   600M  0 part /boot/efi
+├─nvme0n1p2   259:2    0     1G  0 part /boot
+└─nvme0n1p3   259:3    0  18.4G  0 part 
+  ├─rhel-root 253:0    0  16.4G  0 lvm  /
+  └─rhel-swap 253:1    0     2G  0 lvm  [SWAP]
